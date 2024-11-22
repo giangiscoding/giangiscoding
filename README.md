@@ -1,4 +1,4 @@
-# 🐵 Giangiscoding
+# 🐵 Truong Giang Nguyen
 
 **`Developer/Data Scientist`**
 
