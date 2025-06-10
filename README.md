@@ -21,7 +21,7 @@ I'm a student in HUST and My major is Mathematics and Informatics.<br />
 <img align="left" alt="github" width="32px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" />
 <img align="left" alt="git" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="mathlab" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-<img align="left" alt="numpy" width="102px" style="padding-right:10px; margin-top:-110px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" />
+<img align="left" alt="numpy" width="102px" style="padding-right:10px; margin-top:-1010px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" />
           
           
           
