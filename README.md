@@ -3,7 +3,7 @@
 **`Developer/Data Scientist`**
 
 Hi, I’m Giang 👋 <br />
-My interests are data science and artificial intelligence 👀. <br />
+My interests are data science, artificial intelligence and optimization problem in economics & finance 👀. <br />
 I'm a student in HUST and My major is Mathematics and Informatics.<br />
 My little hobby is designing interfaces for apps and websites.<br />
 
